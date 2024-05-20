@@ -1,0 +1,15 @@
+com.example.online_course.app-jetified-appcompat-resources-1.1.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\18fc4560aacad669205c83e527dbc4df\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.online_course.app-jetified-window-1.0.0-beta04-1 C:\Users\ASUS\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.online_course.app-jetified-annotation-experimental-1.1.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.online_course.app-core-1.6.0-3 C:\Users\ASUS\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.online_course.app-jetified-window-java-1.0.0-beta04-4 C:\Users\ASUS\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.online_course.app-appcompat-1.1.0-5 C:\Users\ASUS\.gradle\caches\transforms-3\cff0a11f4a56844f86a75bb945a75ae2\transformed\appcompat-1.1.0\res
+com.example.online_course.app-debug-6 D:\online_course\android\app\src\debug\res
+com.example.online_course.app-main-7 D:\online_course\android\app\src\main\res
+com.example.online_course.app-pngs-8 D:\online_course\build\app\generated\res\pngs\debug
+com.example.online_course.app-resValues-9 D:\online_course\build\app\generated\res\resValues\debug
+com.example.online_course.app-rs-10 D:\online_course\build\app\generated\res\rs\debug
+com.example.online_course.app-mergeDebugResources-11 D:\online_course\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.online_course.app-mergeDebugResources-12 D:\online_course\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.online_course.app-merged_res-13 D:\online_course\build\app\intermediates\merged_res\debug
+com.example.online_course.app-packaged_res-14 D:\online_course\build\flutter_webview_plugin\intermediates\packaged_res\debug
